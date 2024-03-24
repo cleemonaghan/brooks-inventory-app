@@ -9,28 +9,28 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Study Hour Tracker
+# Brooks Inventory App
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/cleemonaghan/study-hour-tracker">
+  <a href="https://github.com/cleemonaghan/brooks-inventory">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Study Hour Tracker</h3>
+  <h3 align="center">Brooks Inventory App</h3>
 
   <p align="center">
-    A web application for logging and tracking study hours
+    A web application for tracking store inventory.
     <br />
-    <a href="https://github.com/cleemonaghan/study-hour-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cleemonaghan/brooks-inventory"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://main.d8645itua3wgf.amplifyapp.com/">View Demo</a>
+    <!-- <a href="https://main.d8645itua3wgf.amplifyapp.com/">View Demo</a> -->
     ·
-    <a href="https://github.com/cleemonaghan/study-hour-tracker/issues">Report Bug</a>
+    <a href="https://github.com/cleemonaghan/brooks-inventory/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cleemonaghan/study-hour-tracker/issues">Request Feature</a>
+    <a href="https://github.com/cleemonaghan/brooks-inventory/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,11 +62,11 @@
 
 ## About The Project
 
-A web application for logging and tracking study hours.
+A web application for tracking store inventory.
 
 ### Features
 
-- A dashboard for logging and viewing study hours.
+- TODO: @Colin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cleemonaghan/study-hour-tracker.git
+   git clone https://github.com/cleemonaghan/brooks-inventory.git
    ```
 2. Install NPM packages
    ```sh
@@ -143,11 +143,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Roadmap
 
-- [x] Create dashboard for displaying study hour metrics
+TODO: @Colin: Update roadmap
+
+<!-- - [x] Create dashboard for displaying study hour metrics
 - [x] Update Readme
 - [ ] Create server with database to store study data
 - [ ] Implement logic to retrieve and store data on server
-- [ ] Update dashboard to use actual database data
+- [ ] Update dashboard to use actual database data -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +165,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Colin Monaghan -- cleemonaghan@gmail.com
 
-Project Link: [https://github.com/cleemonaghan/study-hour-tracker](https://github.com/cleemonaghan/study-hour-tracker)
+Project Link: [https://github.com/cleemonaghan/brooks-inventory](https://github.com/cleemonaghan/brooks-inventory)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,16 +187,16 @@ Resources I found helpful and would like to give credit to:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/cleemonaghan/study-hour-tracker.svg?style=for-the-badge
-[contributors-url]: https://github.com/cleemonaghan/study-hour-tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cleemonaghan/study-hour-tracker.svg?style=for-the-badge
-[forks-url]: https://github.com/cleemonaghan/study-hour-tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/cleemonaghan/study-hour-tracker.svg?style=for-the-badge
-[stars-url]: https://github.com/cleemonaghan/study-hour-tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cleemonaghan/study-hour-tracker.svg?style=for-the-badge
-[issues-url]: https://github.com/cleemonaghan/study-hour-tracker/issues
-[license-shield]: https://img.shields.io/github/license/cleemonaghan/study-hour-tracker.svg?style=for-the-badge
-[license-url]: https://github.com/cleemonaghan/study-hour-tracker/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/cleemonaghan/brooks-inventory.svg?style=for-the-badge
+[contributors-url]: https://github.com/cleemonaghan/brooks-inventory/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cleemonaghan/brooks-inventory.svg?style=for-the-badge
+[forks-url]: https://github.com/cleemonaghan/brooks-inventory/network/members
+[stars-shield]: https://img.shields.io/github/stars/cleemonaghan/brooks-inventory.svg?style=for-the-badge
+[stars-url]: https://github.com/cleemonaghan/brooks-inventory/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cleemonaghan/brooks-inventory.svg?style=for-the-badge
+[issues-url]: https://github.com/cleemonaghan/brooks-inventory/issues
+[license-shield]: https://img.shields.io/github/license/cleemonaghan/brooks-inventory.svg?style=for-the-badge
+[license-url]: https://github.com/cleemonaghan/brooks-inventory/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/colinlmonaghan/
 [Material-UI]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white

@@ -1,11 +1,11 @@
-export enum Sizes {
-  XSmall = "XS",
-  Small = "S",
-  Medium = "M",
-  Large = "L",
-  XLarge = "XL",
-  XXLarge = "XXL",
-}
+export type Sizes = {
+  XS: boolean;
+  SM: boolean;
+  MD: boolean;
+  LG: boolean;
+  XL: boolean;
+  XXL: boolean;
+};
 
 export enum Gender {
   Mens = "M",
@@ -16,5 +16,6 @@ export type InventoryItem = {
   id: number;
   description: string;
   gender: Gender;
-  missing: Sizes[];
+  verified: boolean;
+  missing: Sizes;
 };

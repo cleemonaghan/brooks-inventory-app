@@ -53,8 +53,9 @@ function Navbar() {
         />
       </Box>
       <NavbarLink link={"/"} title={"Home"} />
-      <NavbarLink link={"/dashboard"} title={"Managment"} />
-      <NavbarLink link={"/dashboard"} title={"Employee"} />
+      <NavbarLink link={"/manager"} title={"Manager"} />
+      <NavbarLink link={"/admin"} title={"Admin"} />
+      <NavbarLink link={"/dashboard"} title={"Overview"} />
     </Box>
   );
 }

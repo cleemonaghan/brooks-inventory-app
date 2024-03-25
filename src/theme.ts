@@ -40,7 +40,7 @@ export const themeOptions: ThemeOptions = {
     },
     background: {
       default: "#006DB4", // Blue
-      paper: "#006DB4",
+      paper: "#78B2D5",
     },
   },
 };

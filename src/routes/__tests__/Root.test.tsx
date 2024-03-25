@@ -10,10 +10,10 @@ test("redirects when navbar item clicked", async () => {
     </MemoryRouter>
   );
 
-  const home = screen.getByText(/learn react/i);
+  const home = screen.getByText(/Missing Inventory/i);
   expect(home).toBeInTheDocument();
 
-  const redirect = screen.getByText(/Dashboard/i);
+  const redirect = screen.getByText(/Overview/i);
   expect(redirect).toBeInTheDocument();
   await act(async () => {
     redirect.click();
@@ -34,5 +34,5 @@ test("redirects when landing on a bad page", () => {
   );
 
   // verify navigation to home page
-  expect(screen.getByText(/learn react/i)).toBeInTheDocument();
+  expect(screen.getByText(/Missing Inventory/i)).toBeInTheDocument();
 });

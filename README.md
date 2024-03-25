@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/cleemonaghan/brooks-inventory">
-    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
+  <a href="https://github.com/cleemonaghan/brooks-inventory-app">
+    <img src="public/Brooks_Logo.png" alt="Logo" width="198" height="36">
   </a>
 
   <h3 align="center">Brooks Inventory App</h3>
@@ -23,14 +23,14 @@
   <p align="center">
     A web application for tracking store inventory.
     <br />
-    <a href="https://github.com/cleemonaghan/brooks-inventory"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cleemonaghan/brooks-inventory-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://main.d8645itua3wgf.amplifyapp.com/">View Demo</a> -->
     ·
-    <a href="https://github.com/cleemonaghan/brooks-inventory/issues">Report Bug</a>
+    <a href="https://github.com/cleemonaghan/brooks-inventory-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cleemonaghan/brooks-inventory/issues">Request Feature</a>
+    <a href="https://github.com/cleemonaghan/brooks-inventory-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -99,7 +99,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cleemonaghan/brooks-inventory.git
+   git clone https://github.com/cleemonaghan/brooks-inventory-app.git
    ```
 2. Install NPM packages
    ```sh
@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Colin Monaghan -- cleemonaghan@gmail.com
 
-Project Link: [https://github.com/cleemonaghan/brooks-inventory](https://github.com/cleemonaghan/brooks-inventory)
+Project Link: [https://github.com/cleemonaghan/brooks-inventory-app](https://github.com/cleemonaghan/brooks-inventory-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,16 +187,16 @@ Resources I found helpful and would like to give credit to:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/cleemonaghan/brooks-inventory.svg?style=for-the-badge
-[contributors-url]: https://github.com/cleemonaghan/brooks-inventory/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cleemonaghan/brooks-inventory.svg?style=for-the-badge
-[forks-url]: https://github.com/cleemonaghan/brooks-inventory/network/members
-[stars-shield]: https://img.shields.io/github/stars/cleemonaghan/brooks-inventory.svg?style=for-the-badge
-[stars-url]: https://github.com/cleemonaghan/brooks-inventory/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cleemonaghan/brooks-inventory.svg?style=for-the-badge
-[issues-url]: https://github.com/cleemonaghan/brooks-inventory/issues
-[license-shield]: https://img.shields.io/github/license/cleemonaghan/brooks-inventory.svg?style=for-the-badge
-[license-url]: https://github.com/cleemonaghan/brooks-inventory/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/cleemonaghan/brooks-inventory-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/cleemonaghan/brooks-inventory-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cleemonaghan/brooks-inventory-app.svg?style=for-the-badge
+[forks-url]: https://github.com/cleemonaghan/brooks-inventory-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/cleemonaghan/brooks-inventory-app.svg?style=for-the-badge
+[stars-url]: https://github.com/cleemonaghan/brooks-inventory-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cleemonaghan/brooks-inventory-app.svg?style=for-the-badge
+[issues-url]: https://github.com/cleemonaghan/brooks-inventory-app/issues
+[license-shield]: https://img.shields.io/github/license/cleemonaghan/brooks-inventory-app.svg?style=for-the-badge
+[license-url]: https://github.com/cleemonaghan/brooks-inventory-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/colinlmonaghan/
 [Material-UI]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white

@@ -1,4 +1,4 @@
-import { Box, Button, Typography } from "@mui/material";
+import { Box, Button } from "@mui/material";
 import { Outlet, useNavigate } from "react-router-dom";
 
 function Layout() {
@@ -12,13 +12,13 @@ function Layout() {
         {/* Render the app routes via the Layout Outlet */}
         <Outlet />
       </Box>
-      <Typography
+      {/* <Typography
         component={"footer"}
         variant="caption"
         sx={{ display: "flex", justifyContent: "center" }}
       >
         ©️ Colin Monaghan 2024
-      </Typography>
+      </Typography> */}
     </>
   );
 }
@@ -40,17 +40,21 @@ function Navbar() {
         backgroundColor: theme.palette.background.default,
       })}
     >
-      <Typography
+      <Box
         sx={(theme) => ({
           margin: theme.spacing(0, 1),
         })}
-        component={"h1"}
-        variant="h5"
       >
-        Study Hour Tracker
-      </Typography>
+        <img
+          src="Brooks_Logo_White.png"
+          alt="Running shoes and apparel by Brooks Running"
+          width="198"
+          height="36"
+        />
+      </Box>
       <NavbarLink link={"/"} title={"Home"} />
-      <NavbarLink link={"/dashboard"} title={"Dashboard"} />
+      <NavbarLink link={"/dashboard"} title={"Managment"} />
+      <NavbarLink link={"/dashboard"} title={"Employee"} />
     </Box>
   );
 }

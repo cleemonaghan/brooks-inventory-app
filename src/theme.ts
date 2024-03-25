@@ -1,7 +1,5 @@
 import { ThemeOptions } from "@mui/material";
 
-// See https://coolors.co/visualizer/f0ead2-dde5b6-adc178-a98467-6c584c for palette
-
 export const themeOptions: ThemeOptions = {
   typography: {
     fontFamily: [
@@ -19,14 +17,10 @@ export const themeOptions: ThemeOptions = {
   },
   palette: {
     secondary: {
-      light: "#dde5b6",
-      main: "#adc178", // Olivine
-      dark: "#6d803b",
+      main: "#005EB8",
     },
     primary: {
-      light: "#ae998c",
-      main: "#6c584c", // Umber
-      dark: "#40352e",
+      main: "#005EB8",
     },
     // error: {
     //   main: "#2962ff",
@@ -41,12 +35,12 @@ export const themeOptions: ThemeOptions = {
     //   main: "#2962ff",
     // },
     text: {
-      secondary: "#40352e", // Dark Umber
-      primary: "#40352e", // Dark Umber
+      secondary: "#fff", // black
+      primary: "#fff", // white
     },
     background: {
-      default: "#f0ead2", // Parchment
-      paper: "#f0ead2",
+      default: "#006DB4", // Blue
+      paper: "#006DB4",
     },
   },
 };
